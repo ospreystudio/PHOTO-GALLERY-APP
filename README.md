@@ -4,7 +4,7 @@
 ## Definition
 
 - Fetch data from API 
-- Uploading files to
+- Uploading files
 
 
 ## Technologies
