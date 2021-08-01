@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import MainPage from "@/page/MainPage"
-import PhotosPage from '@/page/PhotosPage'
+import MainPage from "./page/MainPage";
+
 
 Vue.use(VueRouter)
 
@@ -12,10 +12,6 @@ const routes = [
         component: MainPage
     },
 
-    {
-        path: '/photo',
-        component: PhotosPage
-    }
 
 ]
     export default new VueRouter ({
